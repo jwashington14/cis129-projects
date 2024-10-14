@@ -11,7 +11,7 @@ CHAI_TEA_PRICE = 3.00
 MACARRON_PRICE = 3.50
 TAX_RATE = 0.06
 
-#Input: Number of coffees, muffins, teas, and pastries the user is purchasing
+#Input: Number of coffees, muffins, chai teas, and macarrons the user is purchasing
 
 num_coffees = int(input("Number of coffees bought? "))
 num_muffins = int(input("Number of muffins bought? "))
